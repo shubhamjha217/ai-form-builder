@@ -2,7 +2,7 @@
 
 
 
-# 🧠 AI Form Builder
+# 🧠 AI Form Builder by Shubham Jha and Shubhang Krishan AIML 6A
 
 🚀 **Live Demo**: https://ai-form-builder-tubeguruji.vercel.app/
 
